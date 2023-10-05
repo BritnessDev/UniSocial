@@ -1,0 +1,16 @@
+import Arrow from './Arrow.svg'
+import Books from './Books.svg'
+import Camera from './Camera.svg'
+import Cap from './Cap.svg'
+import Discovery from './Discovery.svg'
+import Download from './Download.svg'
+import Edit from './Edit.svg'
+import Expand from './Expand.svg'
+import Google from './Google.svg'
+import Logo from './Logo.svg'
+import OpenBook from './OpenBook.svg'
+import Plus from './Plus.svg'
+import Rocket from './Rocket.svg'
+import Target from './Target.svg'
+
+export { Arrow, Books, Camera, Cap, Discovery, Download, Edit, Expand, Logo, OpenBook, Plus, Rocket, Target, Google }

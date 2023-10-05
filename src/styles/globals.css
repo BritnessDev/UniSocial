@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .heading-base {
+    @apply text-[15px] font-semibold text-[#272B30];
+  }
+}
